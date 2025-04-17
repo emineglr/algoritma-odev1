@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emine\\Desktop\\PatikaPratikler\\algoritma-odev1\\console1\\algoritma-odev1.csproj",
-      "projectName": "algoritma-odev1",
-      "projectPath": "C:\\Users\\Emine\\Desktop\\PatikaPratikler\\algoritma-odev1\\console1\\algoritma-odev1.csproj",
+      "projectUniqueName": "C:\\Users\\Emine\\Desktop\\PatikaPratikler\\algoritma-odev1\\console1\\console1.csproj",
+      "projectName": "console1",
+      "projectPath": "C:\\Users\\Emine\\Desktop\\PatikaPratikler\\algoritma-odev1\\console1\\console1.csproj",
       "packagesPath": "C:\\Users\\Emine\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Emine\\Desktop\\PatikaPratikler\\algoritma-odev1\\console1\\obj\\",
       "projectStyle": "PackageReference",
