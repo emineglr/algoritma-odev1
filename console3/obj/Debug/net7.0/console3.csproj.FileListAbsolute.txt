@@ -1,0 +1,15 @@
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\bin\Debug\net7.0\console3.exe
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\bin\Debug\net7.0\console3.deps.json
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\bin\Debug\net7.0\console3.runtimeconfig.json
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\bin\Debug\net7.0\console3.dll
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\bin\Debug\net7.0\console3.pdb
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.csproj.AssemblyReference.cache
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.AssemblyInfoInputs.cache
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.AssemblyInfo.cs
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.csproj.CoreCompileInputs.cache
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.dll
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\refint\console3.dll
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.pdb
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\console3.genruntimeconfig.cache
+C:\Users\Emine\Desktop\PatikaPratikler\algoritma-odev1\console3\obj\Debug\net7.0\ref\console3.dll

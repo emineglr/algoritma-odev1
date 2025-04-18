@@ -20,6 +20,8 @@ for (int i = 1; i <= n; i++)
     Console.Write(i + ". sayıyı giriniz:");
     sayi = Convert.ToInt32(Console.ReadLine());
     if (sayi == m || sayi % m == 0)
-        Console.WriteLine(sayi);
+    {
+        Console.WriteLine(sayi + "'sayısı " + m + " 'ye tam bölünür.");
+    }
 }
 
